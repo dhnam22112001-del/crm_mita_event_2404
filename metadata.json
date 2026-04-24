@@ -1,0 +1,6 @@
+{
+  "name": "Holter CRM",
+  "description": "A production-ready CRM for managing attendees of the Holter ECG device launch event.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
